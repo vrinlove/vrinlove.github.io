@@ -1840,4 +1840,9 @@ form label {
   opacity: 0;
 }
 
+.img-logo {
+  max-width: 170%;
+  height: auto;
+}
+
 /*# sourceMappingURL=style.css.map */
